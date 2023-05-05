@@ -20,8 +20,8 @@ After analyzing various studies it was decided to use the Decision Tree classifi
 ## Libraries
 This implementation is used such tools as:
 * `pandas`
-* `numpy `
-* `tqdm `
+* `numpy`
+* `tqdm`
 * `sklearn`
 
 ## ✨Contributors✨
