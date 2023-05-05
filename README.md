@@ -17,6 +17,13 @@ that was used was taken from the IEEE CIS Fraud Detection competition on Kaggle.
 ## Model
 After analyzing various studies it was decided to use the Decision Tree classifier for this experiment.
 
+## Libraries
+This implementation is used such tools as:
+* `pandas`
+* `numpy `
+* `tqdm `
+* `sklearn`
+
 ## ✨Contributors✨
 Thanks goes to these wonderful people:
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
